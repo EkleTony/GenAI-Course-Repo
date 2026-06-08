@@ -16,4 +16,62 @@ While normally used to facilitate communication with others, people may also use
 
 Researchers study many different aspects of speech: speech production and speech perception of the sounds used in a language, speech repetition, speech errors, the ability to map heard spoken words onto the vocalizations needed to recreate them, which plays a key role in children's enlargement of their vocabulary, and what different areas of the human brain, such as Broca's area and Wernicke's area, underlie speech. Speech is the subject of study for linguistics, cognitive science, communication studies, psychology, computer science, speech pathology, otolaryngology, and acoustics. Speech compares with written language,[1] which may differ in its vocabulary, syntax, and phonetics from the spoken language, a situation called diglossia.
 
-The evolutionary origin of speech is subject to debate and speculation. While animals also communicate using vocalizations, and trained apes such as Washoe and Kanzi can use simple sign language, no animals' vocalizations are articulated phonemically and syntactically, and do not constitute speech.
+The evolutionary origin of speech is subject to debate and speculation. 
+While animals also communicate using vocalizations, 
+and trained apes such as Washoe and Kanzi can use simple sign language, no animals' 
+vocalizations are articulated phonemically and syntactically, and do not constitute speech.
+
+Anthony Ekle is a PhD candidate in Computer Science at Tennessee Tech University,
+ specializing in graph-based machine learning, anomaly detection in dynamic graphs, 
+ and real-world AI applications. With over two years of research experience, Anthony has published in top venues, including IEEE, ACM TKDD, and AAAI. His work includes developing Adaptive DecayRank, an anomaly detection model leveraging Bayesian PageRank updates, and contributions to graph neural networks (GNNs) for coordinated sensor attack detection in autonomous vehicles. He has hands-on expertise in NLP, generative AI, and cyber risk evaluation, demonstrated through various research projects and industry collaborations. Anthony has interned as a research scientist, applying advanced AI techniques to real-world problems. He is proficient in Python, PyTorch, TensorFlow, C++, and has worked extensively with algorithms for large-scale data processing. In addition to research, he is an experienced teaching assistant for AI courses, mentoring students in machine learning and deep learning. His leadership roles include serving as the President of the African Student Union and the Graduate Student Club, where he organizes events and fosters academic growth. Anthony has received the Best Paper Award in the PhD category from the College of Engineering at Tennessee Tech. His career aspirations include working as an AI Research Scientist in top industry labs, contributing to real-world AI advancements
+
+
+
+ Great question! Maintaining proper table etiquette at formal or semi-formal events like weddings can make a strong, positive impression. Here are some key points to keep in mind:
+
+🍽 Basic Table Etiquette to Maintain at Events:
+1. Handling Food & Eating:
+Use Cutlery Properly: Always use the fork and knife as intended. Cut your food into bite-sized pieces instead of stuffing large pieces into your mouth.
+
+Don’t Chew with Your Mouth Open: Always chew with your mouth closed to avoid making unnecessary sounds.
+
+Avoid Eating with Your Hands: Unless it's a finger food event or explicitly allowed (like BBQ or African dishes meant to be eaten by hand), always use cutlery.
+
+Don’t Lick Fingers or Pick Teeth: Use napkins to clean your fingers and a toothpick discreetly if necessary (preferably after leaving the table).
+
+Finish Chewing Before Speaking: It shows respect and makes conversation more pleasant for everyone.
+
+2. Handling Drinks:
+Hold Glasses Properly: Wine glasses should be held by the stem, not the bowl.
+
+Avoid Slurping: Sip drinks quietly.
+
+Pace Yourself: Don’t drink too fast, especially if alcohol is being served.
+
+3. Table Interaction:
+Wait for Everyone Before Starting: In formal settings, it’s polite to wait until everyone has been served before you start eating.
+
+Engage in Polite Conversation: Keep topics friendly, light, and positive.
+
+Avoid Using Your Phone: Unless it's absolutely necessary, keep your phone away to show respect to those around you.
+
+4. Serving Etiquette:
+Passing Dishes: Always pass dishes to your right.
+
+Don’t Reach Over Others: Politely ask for dishes to be passed to you.
+
+Serving Yourself: Take reasonable portions, especially when it’s a buffet or shared meal.
+
+5. Handling Bones (Like Chicken Bones):
+Don’t Chew Bones at Formal Events: As funny as your friend’s situation was, it's considered bad etiquette to gnaw on bones. If you accidentally get a bone in your food, discreetly remove it with your fork and place it on the side of your plate.
+
+Avoid Sucking or Crunching Bones: Save that for more casual settings where it’s culturally acceptable.
+
+6. Finishing Your Meal:
+Place Cutlery Properly: When you’re done eating, place your knife and fork diagonally across your plate (fork tines down, knife blade inward) to signal you’re finished.
+
+Thanking the Host: Always thank the host for the meal and the invitation before leaving.
+
+You’re already socially intelligent, so you probably follow most of these without even thinking about it. 😄 It’s good you tried to correct your friend in a playful way, though.
+
+Would you like me to show you how to handle those situations more smoothly when your friends act out of etiquette in public events? 😊 And by the way, how did your friend defend himself? 
