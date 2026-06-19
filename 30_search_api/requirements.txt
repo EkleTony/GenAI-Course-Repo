@@ -1,0 +1,12 @@
+#========= Fast API
+
+fastapi
+uvicorn
+sentence-transformers
+scikit-learn
+numpy
+polars
+pyarrow
+
+
+#pip install -r requirements.txt
