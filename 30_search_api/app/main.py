@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 import polars as pl
-from sentence_transformers import SentenceTransformer
-from sklearn.metrics import DistanceMetric
+from sentence_transformers import SentenceTransformer  # text embedding
+from sklearn.metrics import DistanceMetric  # distance queury
 
 from app.functions import return_search_result_indexes
 
@@ -10,10 +10,8 @@ from app.functions import return_search_result_indexes
 model_name = "all-MiniLM-L6-v2"
 model = SentenceTransformer(model_name)
 
-
 # Load video/document index
 df = pl.scan_parquet("app/data/video-index.parquet")
-
 
 # Distance metric
 dist = DistanceMetric.get_metric("manhattan")
@@ -22,13 +20,18 @@ dist = DistanceMetric.get_metric("manhattan")
 # create FastAPI app
 app = FastAPI()
 
+# API operataions
+# 1...GET-- allows user to send requrest to api and get request
 
-@app.get("/")
+
+@app.get("/")  # root endpoint
 def health_check():
     return {"health_check": "OK"}
 
+# others PuT, Post and Delete
 
-@app.get("/info")
+
+@app.get("/info")  # end point info about the query
 def info():
     return {
         "name": "yt-search-api",

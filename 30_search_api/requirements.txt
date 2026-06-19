@@ -1,12 +1,7 @@
-#========= Fast API
-
 fastapi
 uvicorn
 sentence-transformers
-scikit-learn
 numpy
+scikit-learn
 polars
 pyarrow
-
-
-#pip install -r requirements.txt
